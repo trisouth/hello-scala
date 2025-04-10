@@ -1574,3 +1574,87 @@ WARNING: Java indexer failed with and exception. (full report at: /home/parallel
 2025.04.04 13:28:13 INFO  time: Connected to build server in 1.4s[0m
 2025.04.04 13:28:13 INFO  Connected to Build server: Bloop v2.0.9[0m
 2025.04.04 13:28:14 INFO  time: indexed workspace in 1.58s[0m
+2025.04.04 22:45:03 INFO  Shutting down server[0m
+2025.04.04 22:45:03 INFO  shutting down Metals[0m
+2025.04.04 22:45:04 INFO  Shut down connection with build server.[0m
+2025.04.04 22:45:04 INFO  Shut down connection with build server.[0m
+2025.04.04 22:45:03 INFO  Exiting server[0m
+2025.04.09 22:24:16 INFO  Started: Metals version 1.5.2 in folders '/home/parallels/vscode_projects/scala/hello-scala' for client Visual Studio Code 1.99.1.[0m
+2025.04.09 22:24:17 INFO  Attempting to connect to the build server...[0m
+2025.04.09 22:24:17 INFO  Found a Bloop server running[0m
+2025.04.09 22:24:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/parallels/vscode_projects/scala/hello-scala/.metals/bsp.trace.json or /home/parallels/.cache/metals/bsp.trace.json[0m
+2025.04.09 22:24:17 INFO  Attempting to connect to the build server...[0m
+2025.04.09 22:24:17 INFO  Found a Bloop server running[0m
+2025.04.09 22:24:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/parallels/vscode_projects/scala/hello-scala/project/.metals/bsp.trace.json or /home/parallels/.cache/metals/bsp.trace.json[0m
+2025.04.09 22:24:17 INFO  time: Connected to build server in 0.3s[0m
+2025.04.09 22:24:17 INFO  Connected to Build server: Bloop v2.0.9[0m
+2025.04.09 22:24:17 INFO  time: Imported build in 0.11s[0m
+2025.04.09 22:24:20 INFO  time: indexed workspace in 3.7s[0m
+Apr 09, 2025 10:24:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.04.09 22:30:11 INFO  compiling root (1 scala source)[0m
+2025.04.09 22:30:12 INFO  time: compiled root in 1.31s[0m
+Apr 09, 2025 10:34:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 291
+2025.04.09 22:36:01 INFO  compiling root (1 scala source)[0m
+2025.04.09 22:36:01 INFO  time: compiled root in 0.59s[0m
+2025.04.09 22:55:41 INFO  compiling root (1 scala source)[0m
+2025.04.09 22:55:41 INFO  time: compiled root in 0.5s[0m
+2025.04.09 23:00:42 INFO  compiling root (1 scala source)[0m
+2025.04.09 23:00:42 INFO  time: compiled root in 0.69s[0m
+2025.04.09 23:01:13 INFO  compiling root (1 scala source)[0m
+2025.04.09 23:01:13 INFO  time: compiled root in 0.48s[0m
+2025.04.10 07:27:23 INFO  compiling root (1 scala source)[0m
+2025.04.10 07:27:23 INFO  time: compiled root in 0.47s[0m
+2025.04.10 07:29:29 INFO  compiling root (1 scala source)[0m
+2025.04.10 07:29:29 INFO  time: compiled root in 0.4s[0m
+2025.04.10 07:35:54 INFO  compiling root (1 scala source)[0m
+2025.04.10 07:35:54 INFO  time: compiled root in 0.45s[0m
+Apr 10, 2025 7:36:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1071
+2025.04.10 07:36:04 INFO  compiling root (1 scala source)[0m
+2025.04.10 07:36:04 INFO  time: compiled root in 0.34s[0m
+2025.04.10 07:37:25 INFO  compiling root (1 scala source)[0m
+2025.04.10 07:37:25 INFO  time: compiled root in 0.48s[0m
+2025.04.10 07:37:31 INFO  compiling root (1 scala source)[0m
+2025.04.10 07:37:31 INFO  time: compiled root in 0.34s[0m
+2025.04.10 07:38:26 INFO  Shutting down server[0m
+2025.04.10 07:38:26 INFO  shutting down Metals[0m
+2025.04.10 07:38:26 INFO  Shut down connection with build server.[0m
+2025.04.10 07:38:26 INFO  Shut down connection with build server.[0m
+2025.04.10 07:38:26 INFO  Exiting server[0m
+2025.04.10 07:39:15 INFO  Started: Metals version 1.5.2 in folders '/home/parallels/vscode_projects/scala/hello-scala' for client Visual Studio Code 1.99.1.[0m
+2025.04.10 07:39:15 INFO  no build target found for /home/parallels/vscode_projects/scala/hello-scala/src/main/scala/sparkex/DistinctValues.scala. Using presentation compiler with project's scala-library version: 3.3.5[0m
+2025.04.10 07:39:15 INFO  Attempting to connect to the build server...[0m
+2025.04.10 07:39:15 INFO  Found a Bloop server running[0m
+2025.04.10 07:39:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/parallels/vscode_projects/scala/hello-scala/.metals/bsp.trace.json or /home/parallels/.cache/metals/bsp.trace.json[0m
+2025.04.10 07:39:16 INFO  Attempting to connect to the build server...[0m
+2025.04.10 07:39:16 INFO  Found a Bloop server running[0m
+2025.04.10 07:39:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/parallels/vscode_projects/scala/hello-scala/project/.metals/bsp.trace.json or /home/parallels/.cache/metals/bsp.trace.json[0m
+2025.04.10 07:39:16 INFO  time: Connected to build server in 0.37s[0m
+2025.04.10 07:39:16 INFO  Connected to Build server: Bloop v2.0.9[0m
+2025.04.10 07:39:21 INFO  Shutting down server[0m
+2025.04.10 07:39:21 INFO  shutting down Metals[0m
+2025.04.10 07:39:21 INFO  Shut down connection with build server.[0m
+2025.04.10 07:39:21 INFO  Shut down connection with build server.[0m
+2025.04.10 07:39:22 INFO  Exiting server[0m
+2025.04.10 10:48:55 INFO  Started: Metals version 1.5.2 in folders '/home/parallels/vscode_projects/scala/hello-scala' for client Visual Studio Code 1.99.1.[0m
+2025.04.10 10:48:55 INFO  no build target found for /home/parallels/vscode_projects/scala/hello-scala/src/main/scala/sparkex/DistinctValues.scala. Using presentation compiler with project's scala-library version: 3.3.5[0m
+2025.04.10 10:48:57 INFO  no build target found for /home/parallels/vscode_projects/scala/hello-scala/src/main/scala/sparkex/DistinctValues.scala. Using presentation compiler with project's scala-library version: 3.3.5[0m
+2025.04.10 10:48:57 INFO  Attempting to connect to the build server...[0m
+2025.04.10 10:48:57 INFO  No running Bloop server found, starting one.[0m
+2025.04.10 10:48:58 INFO  Starting compilation server[0m
+2025.04.10 10:48:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/parallels/vscode_projects/scala/hello-scala/.metals/bsp.trace.json or /home/parallels/.cache/metals/bsp.trace.json[0m
+2025.04.10 10:48:59 INFO  Attempting to connect to the build server...[0m
+2025.04.10 10:48:59 INFO  Found a Bloop server running[0m
+2025.04.10 10:48:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/parallels/vscode_projects/scala/hello-scala/project/.metals/bsp.trace.json or /home/parallels/.cache/metals/bsp.trace.json[0m
+2025.04.10 10:48:59 INFO  time: Connected to build server in 2.31s[0m
+2025.04.10 10:48:59 INFO  Connected to Build server: Bloop v2.0.9[0m
+2025.04.10 10:48:59 INFO  time: Imported build in 0.1s[0m
+2025.04.10 10:49:01 INFO  time: indexed workspace in 2.66s[0m
+2025.04.10 10:56:16 INFO  compiling root (1 scala source)[0m
+2025.04.10 10:56:18 INFO  time: compiled root in 1.68s[0m
+2025.04.10 10:56:29 INFO  compiling root (1 scala source)[0m
+2025.04.10 10:56:29 INFO  time: compiled root in 0.49s[0m
+Apr 10, 2025 10:56:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
